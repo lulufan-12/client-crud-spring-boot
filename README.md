@@ -5,8 +5,8 @@ This is a simple Spring Boot project to practice some features of Spring Framewo
 ## Requirements
 
 [Java 17](https://sdkman.io/jdks)  
-[Maven](https://maven.apache.org/download.cgi)
-[Lombok](https://projectlombok.org/)
+[Maven](https://maven.apache.org/download.cgi)  
+[Lombok](https://projectlombok.org/)  
 
 ## Instructions
 
