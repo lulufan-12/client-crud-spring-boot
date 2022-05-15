@@ -1,0 +1,11 @@
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    url: ${DATASOURCE_URL:jdbc:h2:mem:testdb}
+    driver-class-name: ${DATASOURCE_DRIVER:org.h2.Driver}
+    username: ${DATASOURCE_USERNAME:sa}
+    password: ${DATASOURCE_PASSWORD:password}
+  jpa:
+    database-platform: ${DATABASE_PLATFORM:org.hibernate.dialect.H2Dialect}
