@@ -9,3 +9,5 @@ spring:
     password: ${DATASOURCE_PASSWORD:password}
   jpa:
     database-platform: ${DATABASE_PLATFORM:org.hibernate.dialect.H2Dialect}
+    hibernate:
+      ddl-auto: create-drop
