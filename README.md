@@ -1,14 +1,14 @@
-#Simple Client Crud
+# Simple Client Crud
 
 This is a simple Spring Boot project to practice some features of Spring Framework.
 
-##Requirements
+## Requirements
 
 [Java 17](https://sdkman.io/jdks)  
 [Maven](https://maven.apache.org/download.cgi)
 [Lombok](https://projectlombok.org/)
 
-##Instructions
+## Instructions
 
 To run this project clone the repository to your local/remote machine, download all the dependencies and init the spring boot app by Maven or your favorite IDE.
 
